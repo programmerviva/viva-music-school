@@ -39,6 +39,8 @@ To set up the project locally, follow these steps:
 To start the development server, run:
 ```sh
 npm start
-
+```
 ## URI
+```sh
 https://vms-orpin.vercel.app/
+```
