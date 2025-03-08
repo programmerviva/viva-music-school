@@ -40,7 +40,5 @@ To start the development server, run:
 ```sh
 npm start
 ```
-## URI
-```sh
-https://vms-orpin.vercel.app/
-```
+[Link Text](https://vms-orpin.vercel.app/)
+
