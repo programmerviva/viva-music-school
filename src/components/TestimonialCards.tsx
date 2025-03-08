@@ -16,7 +16,7 @@ const musicSchoolTestimonials = [
     },
     {
       quote:
-        "This school offered me the tools and confidence to take my singing to the next level. I'm endlessly grateful for the personalized coaching.",
+        "This school offered me the tools and confidence to take my singing to the next level. I`m endlessly grateful for the personalized coaching.",
       name: 'Michael Chen',
       title: 'Vocal Student',
     },
